@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AJrtuW28bQFWJ5Lk/tPFyg/daH1qwPRSRy/paLGxEFgPPGnB1h2qYjWYMAf5levazjZ5xyUJ1KmjrD7m1diiGg==",
+  "dgSpecHash": "ReOWzTTqn6fsOzraKxHG7mcZLH9/QVd5b0MKZfHoRVW3x4hvJOl0KjHck+WHDb9POo1Yr8qFpWnaJwH/YrQb5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Addison\\Documents\\C#\\Romskii\\Validate\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\Addison\\source\\repos\\Common\\Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
